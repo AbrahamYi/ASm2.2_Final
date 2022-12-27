@@ -1,0 +1,7 @@
+D:\C#\Lab4\Asm2.2-Hotel\Asm2.2-Hotel\bin\Debug\Asm2._2_Hotel.exe
+D:\C#\Lab4\Asm2.2-Hotel\Asm2.2-Hotel\bin\Debug\Asm2._2_Hotel.pdb
+D:\C#\Lab4\Asm2.2-Hotel\Asm2.2-Hotel\obj\Debug\Asm2.2-Hotel.csproj.AssemblyReference.cache
+D:\C#\Lab4\Asm2.2-Hotel\Asm2.2-Hotel\obj\Debug\Asm2.2-Hotel.csproj.SuggestedBindingRedirects.cache
+D:\C#\Lab4\Asm2.2-Hotel\Asm2.2-Hotel\obj\Debug\Asm2.2-Hotel.csproj.CoreCompileInputs.cache
+D:\C#\Lab4\Asm2.2-Hotel\Asm2.2-Hotel\obj\Debug\Asm2._2_Hotel.exe
+D:\C#\Lab4\Asm2.2-Hotel\Asm2.2-Hotel\obj\Debug\Asm2._2_Hotel.pdb
